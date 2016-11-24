@@ -8,3 +8,6 @@
         Option      "TearFree"    "true"
         Driver      "intel"
     EndSection
+    
+## Gnome panel size
+/home/user/.local/share/themes/NameThemes/gnome-shell/gnome-shell.css
