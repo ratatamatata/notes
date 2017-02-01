@@ -9,5 +9,9 @@
         Driver      "intel"
     EndSection
     
-## Gnome panel size
+##Gnome panel size
 /home/user/.local/share/themes/NameThemes/gnome-shell/gnome-shell.css
+##In-System Memory
+the_altsyncram.lpm_hint = "ENABLE_RUNTIME_MOD = YES",
+
+the_altsyncram.INSTANCE_NAME = "nios_onchip_mem";
